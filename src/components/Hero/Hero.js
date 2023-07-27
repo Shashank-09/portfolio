@@ -12,10 +12,10 @@ const Hero = (props) => (
             My Personal Portfolio <br />
       </SectionTitle>
       <SectionTitle2>
-        Utkarsha Holkar
+        Shashank Tulsikar
       </SectionTitle2>
       <SectionText>
-        The purpose of JavaScript Mastry is to help aspiring and established developers to take their developement skills to the next level and build awesome apps.
+        The purpose of  is to help aspiring and established developers to take their developement skills to the next level and build awesome apps.
       </SectionText>
       <Button onclick={() => window.location = "https://google.com"}>Leran More</Button>
     </LeftSection>
